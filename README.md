@@ -1,2 +1,2 @@
-# chattr
-Chattr — a small chat app with accounts, profiles, servers and direct messages. made by zynlov and saoirse.
+# Chattr
+Chattr is kind of a thing me and my friend saoirse thought of so we decided to make it, we hope the few people who may see this enjoys it
